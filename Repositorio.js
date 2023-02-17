@@ -4,3 +4,9 @@
 // git branch -M main
 // git remote add origin "URL del repositorio" (ejemplo: https://github.com/Tomibelt/asd.git)
 // git push -u origin main
+
+
+// ACTUALIZAR COMMIT
+// git add .
+// git commit -m "first commit"
+// git push -u origin main
