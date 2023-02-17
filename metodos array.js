@@ -99,13 +99,3 @@
 
 // Dentro del bucle FOR existen FOR OF que recorre el valor de los elementos
 // y FOR IN que recorre el indice de los elementos, tambien sirve para los objetos
-
-
-let numero = 2;
-let exponente = 3;
-
-function elevar(){
-    return numero ** exponente;
-}
-
-console.log(elevar());
